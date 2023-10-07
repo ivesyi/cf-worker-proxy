@@ -2,7 +2,7 @@
 
 一个基于Cloudflare Worker的简易代理，允许用户通过特定的前缀访问任何网站。本代理可帮助实现跨域请求和为特定的代理需求提供解决方案。
 
-该项目参考了[cloudflare-reverse-proxy](https://github.com/gaboolic/cloudflare-reverse-proxy)并在其基础上进行了一些调整和改进。我们在此表示感谢！
+参考了[cloudflare-reverse-proxy](https://github.com/gaboolic/cloudflare-reverse-proxy)并在其基础上进行了一些调整和改进。在此表示感谢！
 
 ## 使用指南
 
